@@ -1,6 +1,7 @@
 # arduino-keypad-servo-project
 
 Story: 
+
 The lock of a door is connected to a servo motor. 
 
 Options to control the lock are: Lock, unlock, lock twice and change lock state.
