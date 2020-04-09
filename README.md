@@ -12,3 +12,6 @@ The mechanism works when * sign is clicked after entering a password.
 
 LEDs show the state of the lock.
 
+Entire process of the project is shared in the following youtbe video:
+
+https://youtu.be/vpLZ-iiOhs8
